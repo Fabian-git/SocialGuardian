@@ -1,5 +1,5 @@
 # SocialGuardian
- FB Hackathon Contribution
+ FB Hackathon Contribution by Lukas Giesler and Fabian Rücker
 
 Installation: Download the .apk and install it on your Quest 2 (e.g. using SideQuest).
 Use your hands for playing and input.
